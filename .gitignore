@@ -1,0 +1,5 @@
+/target
+/library
+/doc/
+*.dat
+*.webp
